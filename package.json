@@ -9,6 +9,9 @@
   "author": "Udit",
   "license": "ISC",
   "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
     "parcel": "^2.9.3"
   }
 }
