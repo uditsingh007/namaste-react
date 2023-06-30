@@ -1,0 +1,14 @@
+{
+  "name": "react-from-scratch",
+  "version": "1.0.0",
+  "description": "Namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Udit",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
